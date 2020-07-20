@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Login 1`] = `
+<div
+  className="Login"
+>
+  <h1
+    className="Login__title"
+  >
+    Operational Client
+  </h1>
+  <form
+    autoComplete="off"
+    className="Login__form"
+    noValidate={true}
+  >
+    <div
+      className="Login__input-wrapper"
+    >
+      <span
+        className="Login__input ant-input-group-wrapper"
+      >
+        <span
+          className="ant-input-wrapper ant-input-group"
+        >
+          <span
+            className="ant-input-group-addon"
+          >
+            login
+          </span>
+          <input
+            className="ant-input"
+            disabled={false}
+            id="name"
+            name="name"
+            onChange={[Function]}
+            onKeyDown={[Function]}
+            pattern="[:/\\\\\\\\@.;,$#!%^*()_={}[\\\\]~'\`+<>|№&?]"
+            style={null}
+            type="text"
+            value=""
+          />
+        </span>
+      </span>
+    </div>
+    <div
+      className="Login__input-wrapper"
+    >
+      <span
+        className="Login__input ant-input-group-wrapper"
+      >
+        <span
+          className="ant-input-wrapper ant-input-group"
+        >
+          <span
+            className="ant-input-group-addon"
+          >
+            password
+          </span>
+          <input
+            className="ant-input"
+            disabled={false}
+            id="password"
+            name="password"
+            onChange={[Function]}
+            onKeyDown={[Function]}
+            style={null}
+            type="password"
+            value=""
+          />
+        </span>
+      </span>
+    </div>
+    <button
+      className="ant-btn ant-btn-primary"
+      onClick={[Function]}
+      type="button"
+    >
+      <span>
+        Login
+      </span>
+    </button>
+  </form>
+</div>
+`;

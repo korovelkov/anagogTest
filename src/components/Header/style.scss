@@ -1,0 +1,26 @@
+.Header {
+  display: flex;
+  position: fixed;
+  left: 0;
+  right: 0;
+  justify-content: center;
+  padding: 10px;
+  align-items: center;
+  top: 0;
+  z-index: 1;
+  background: white;
+}
+
+.Header__service {
+  display: flex;
+  align-items: center;
+  margin-right: 10px
+}
+
+.Header__service-text {
+  margin-right: 10px;
+}
+
+.Header__user {
+  margin-right: 15px;
+}

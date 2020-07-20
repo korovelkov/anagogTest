@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+@import "./reset";
+
+.App {
+  max-width: 1140px;
+  margin: 0 auto;
+  height: 100%;
+
+  .ant-row-flex,
+  .ant-row {
+    margin-bottom: 15px;
+  }
+}

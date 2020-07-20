@@ -1,0 +1,23 @@
+.EditUsers {
+  padding-top: 70px;
+
+  h1 {
+    font-size: 46px;
+  }
+}
+
+.EditUsers__content {
+  margin: 0 auto;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.EditUsers__title {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.EditUsers__form-wrapper {
+  width: 300px;
+}

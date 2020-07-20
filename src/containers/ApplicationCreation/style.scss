@@ -1,0 +1,22 @@
+.ApplicationCreation {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: white;
+  padding-top: 200px;
+}
+
+.ApplicationCreation__form {
+  min-width: 450px;
+}
+
+.ApplicationCreation__msg {
+  color: green;
+}
+
+.ApplicationCreation__title {
+  font-size: 46px;
+  text-align: center;
+  margin-bottom: 20px;
+}

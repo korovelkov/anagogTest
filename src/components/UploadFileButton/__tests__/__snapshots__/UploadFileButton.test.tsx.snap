@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render button 1`] = `
+<button
+  className="ant-btn UploadFileButton"
+  onClick={[Function]}
+  type="button"
+>
+  <span>
+    test
+  </span>
+  <label>
+    <input
+      type="file"
+    />
+  </label>
+</button>
+`;
